@@ -130,3 +130,5 @@ dmypy.json
 
 # OK History
 .ok_history
+
+.vscode/
